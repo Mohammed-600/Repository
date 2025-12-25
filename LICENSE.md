@@ -1,4 +1,4 @@
-> index.html/web **Copyright (c) 2025 Mohammed Al-Ghazali. All Rights Reserved.**
+> index.html/web **Copyright (c) 2025 Mohammed-600. All Rights Reserved.**
 
 > index.html/web **Posting anything in this folder is not allowed.**
 
