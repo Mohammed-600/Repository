@@ -3,7 +3,7 @@
 EXCEPTIONS & ADDITIONAL TERMS
 ============================================================
 The MIT License above applies only to the software files: 
-(mkl.py, mkl.bat, randomx, and supporting logic files).
+mkllng.zip(mkl.py, mkl.bat, randomx, and supporting logic files).
 
 The following directory is NOT covered by the MIT License:
 - /web (including index.html and its assets)
